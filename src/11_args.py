@@ -71,5 +71,4 @@ d = {
 }
 
 # How do you have to modify the f4 call below to make this work?
-# (d.item())
-print(d.keys() = d.values())
+f4(**d)
